@@ -30,6 +30,8 @@ _install_base_apps(){
         exa \
         direnv \
         bat \
+        tree \
+        stow \
         git-hub \
         tig \
         p7zip-full \
